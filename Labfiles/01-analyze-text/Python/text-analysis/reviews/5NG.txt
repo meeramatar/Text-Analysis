@@ -1,0 +1,5 @@
+Extremely Disappointed
+The app is supposed to show my 4g data consumption in detail but in reality it says I have consumed 5GB in total, and when I add up the breakdown it only shows I consumed 2GB.. when I called customer service they said that my internet calling app is consuming the rest of the GBs. The problem is that I am paying for a subscription with Etisalat for “unlimited” data for internet calling and it’s very clear that something is wrong. When customer service reached out to IT, they said no the app is not consuming anything as per the plan and there’s nothing wrong. So where is my data going? Nobody knows.
+
+
+I have called and called multiple times and this happened for 2 months.. they keep saying nothing is wrong. But when I actually test it and use internet calling for 1 hr, 1GB of data disappears. Nobody is willing to actually show me where my data is going to prove that the internet calling app is not consuming it!
